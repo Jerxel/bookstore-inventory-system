@@ -44,26 +44,20 @@ This project is a simple, console-based Bookstore Inventory Management System cr
 Here are screenshots demonstrating the flow and functionality of the application.
 
 ### 1. Main Menu
-*(A screenshot of the main menu options)*
 ![main_menu.png](screenshots/main_menu.png)
 
 ### 2. Adding New Books
-*(A screenshot showing the process of adding a couple of books)*
 ![adding_books.png](screenshots/adding_books.png)
 
 ### 3. Displaying All Books (Unsorted)
-*(A screenshot showing the list of books before sorting)*
 ![display_unsorted.png](screenshots/display_unsorted.png)
 
 ### 4. Sorting and Displaying Books
-*(A screenshot showing the message after sorting and the newly sorted list)*
 ![sorting_and_displaying.png](screenshots/sorting_and_displaying.png)
 
 ### 5. Searching for a Book
-*(A screenshot of the output when searching for a book that exists)*
 ![search_found.png](screenshots/search_found.png)
 
 ### 6. Managing Customer Orders with the Queue
-*(A screenshot showing a book being added to the order queue and then processed)*
 ![queue_operations.png](screenshots/queue_operations.png)
 
